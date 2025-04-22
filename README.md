@@ -210,4 +210,4 @@ Keras: For the high-level API used in model building.
 IMDB Dataset: For the publicly available movie review data.
 
 
-Feel free to star ⭐ this repository if you find it useful! For questions or feedback, open an issue or contact me at [your-email@example.com].
+Feel free to star ⭐ this repository if you find it useful! For questions or feedback, open an issue or contact me at [saiedhassaan2@gmail.com].
